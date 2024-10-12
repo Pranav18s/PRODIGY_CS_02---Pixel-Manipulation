@@ -33,11 +33,15 @@ This Python project implements a simple image encryption and decryption mechanis
    git clone https://github.com/Pranav18s/PRODIGY_CS_02---Pixel-Manipulation.git
    
 2.Install dependencies:
+
 pip install pillow
+
 pip install numpy
 
 3.Run the script:
+
 python PixelManipulation.py
+
 
 🔑 Example Usage
 Do you want to encrypt or decrypt an image? (e/d): e
